@@ -15,6 +15,7 @@
 * Use sample_values as the values for the bar chart
 * Use otu_ids as the labels for the bar chart
 * Use otu_labels as the hovertext for the chart
+
 ![Image of BAR](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/bar.PNG)
 
 ## Dashboard: Bubble Chart displays each sample found in the selected ID
@@ -22,6 +23,7 @@
 * Use sample_values for the y values
 * Use otu_ids for the marker colors
 * Use otu_labels for the text values
+
 ![Image of BUBBLE](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/bubble.PNG)
 
 ## Dashboard: Gauge Chart plots the weekly washing frequency of the selected ID
@@ -29,6 +31,7 @@
 
 ## Dashboard: Demographic Information Display the sample metadata found in the selected ID
 * Display each key-value pair from the metadata JSON object
+
 ![Image of DEMO](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/info.PNG)
 
 #### The Dashboard layout that was created is below:
