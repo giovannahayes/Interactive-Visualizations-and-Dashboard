@@ -15,24 +15,24 @@
 * Use sample_values as the values for the bar chart
 * Use otu_ids as the labels for the bar chart
 * Use otu_labels as the hovertext for the chart
-![Image of BAR](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/bacteria.jpg)
+![Image of BAR](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/bar.PNG)
 
 ## Dashboard: Bubble Chart displays each sample found in the selected ID
 * Use otu_ids for the x values
 * Use sample_values for the y values
 * Use otu_ids for the marker colors
 * Use otu_labels for the text values
-![Image of BUBBLE](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/bacteria.jpg)
+![Image of BUBBLE](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/bubble.PNG)
 
 ## Dashboard: Gauge Chart plots the weekly washing frequency of the selected ID
-![Image of GAUGE](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/bacteria.jpg)
+![Image of GAUGE](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/gauge.PNG)
 
 ## Dashboard: Demographic Information Display the sample metadata found in the selected ID
 * Display each key-value pair from the metadata JSON object
-![Image of DEMO](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/bacteria.jpg)
+![Image of DEMO](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/info.PNG)
 
 #### The Dashboard layout that was created is below:
-![Image of DASH](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/bacteria.jpg)
+![Image of DASH](https://github.com/giovannahayes/Interactive-Visualizations-and-Dashboard/blob/main/Images/dashboard.PNG)
 
 ## About the Data
 #### Hulcr, J. et al.(2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from:[http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
